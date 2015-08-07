@@ -1,3 +1,5 @@
-# Infrastructure for Cognitive Assessments
+# Infrastructure for Cognition
 
-Over the past century, we have made significant in roads into understanding and measuring cognition. 
+The purpose of this wiki is to serve as a resource of knowledge and methods for assessing cognition in aging and preclinical dementia populations.
+
+(working on a snazzy intro to fill this out more)
