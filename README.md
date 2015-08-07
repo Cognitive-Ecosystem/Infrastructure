@@ -1,2 +1,3 @@
-# Knowledge-Base
-A compendium of the different methods and solutions to assess cognition in aging and preclinical dementia populations
+# Infrastructure for Cognitive Assessments
+
+Over the past century, we have made significant in roads into understanding and measuring cognition. 
